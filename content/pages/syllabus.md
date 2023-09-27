@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, requirements, and reading assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -53,4 +55,4 @@ Watson, James D. _The Double Helix: A Personal Account of the Discovery of the S
 
 Kidder, Tracy. _The Soul of a New Machine_. Back Bay Books, 2000. ISBN: 9780316491976.
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, see the {{% resource_link 8fc49aad-cd62-bb40-dd19-4f44e9e7fff1 "Readings" %}} section.

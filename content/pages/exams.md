@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a self-administered mid-term quiz intended to prepare
+  students for the final exam of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
