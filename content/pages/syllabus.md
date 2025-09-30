@@ -38,7 +38,7 @@ There will be two exams: a midterm quiz, and a final examination at the end of t
 
 ### Papers
 
-This course is a [HASS-D](http://web.mit.edu/hassreq/) subject and requires 25 pages of coherent essay. This requirement will normally be met through three essays of 7–9 pages each.
+This course is a {{% resource_link "178522d1-4a25-4bde-ac10-9ebc09834f2d" "HASS-D" %}} subject and requires 25 pages of coherent essay. This requirement will normally be met through three essays of 7–9 pages each.
 
 ### Reflections on the Readings
 
@@ -51,7 +51,7 @@ Students are urged to purchase:
 
 Rand, Ayn. _The Fountainhead_. Plume, 1994. ISBN: 9780452273337.
 
-Watson, James D. _The Double Helix: A Personal Account of the Discovery of the Structure of DNA_. Touchstone, 2001. ISBN: 9780743216302. \[Preview with [Google Books](http://books.google.com/books?id=CESjmRQtfrUC&printsec=frontcover&dq=double+helix+preview&hl=en&sa=X&ei=kT5-U6DuN4fUsATQ-YGABg&ved=0CDYQ6AEwAg#v=onepage&q=double%20helix%20preview&f=false)\]
+Watson, James D. _The Double Helix: A Personal Account of the Discovery of the Structure of DNA_. Touchstone, 2001. ISBN: 9780743216302. \[Preview with {{% resource_link "f2e9bb6f-7fac-4cd9-866a-fa5ecbfc0d81" "Google Books" %}}\]
 
 Kidder, Tracy. _The Soul of a New Machine_. Back Bay Books, 2000. ISBN: 9780316491976.
 
